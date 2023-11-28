@@ -58,8 +58,8 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
-![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/3f37a241-c243-4483-9a6f-52bb934d258a)
 
+![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/1c7f6926-676c-40cc-858b-940b874ee226)
 
 
 /*
@@ -69,18 +69,22 @@ RegisterNumber:23011639
 */
 Logic symbol & Truthtable
 
+![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/4419e364-3cda-42c2-8039-cf398ed6cd97)
 
-![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/d4f19581-78e4-4531-8cde-d14c82c35aff)
+
 
 RTL realization
 
 
-![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/0b5dc66b-5a86-438d-a686-2173ab0af990)
+![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/57fd7d0e-06f1-46df-9b2d-6e3747e38d2a)
 
 
 
 Output:
-![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/7b22c061-8729-4113-ad67-0fe76fbb766f)
+
+![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/55c5cf5e-0d62-422c-b07b-edab6d0f71fd)
+
+
 
 
 RTL
