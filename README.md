@@ -58,15 +58,28 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
+![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/3f37a241-c243-4483-9a6f-52bb934d258a)
+
+
+
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:Kavinraj.S 
+RegisterNumber:23011639  
 */
 Logic symbol & Truthtable
+![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/d4f19581-78e4-4531-8cde-d14c82c35aff)
 RTL realization
+![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/0b5dc66b-5a86-438d-a686-2173ab0af990)
+
+
+
 Output:
+![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/7b22c061-8729-4113-ad67-0fe76fbb766f)
+
+
 RTL
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
