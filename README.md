@@ -71,6 +71,7 @@ Logic symbol & Truthtable
 
 
 ![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/d4f19581-78e4-4531-8cde-d14c82c35aff)
+
 RTL realization
 
 
