@@ -68,8 +68,12 @@ Developed by:Kavinraj.S
 RegisterNumber:23011639  
 */
 Logic symbol & Truthtable
+
+
 ![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/d4f19581-78e4-4531-8cde-d14c82c35aff)
 RTL realization
+
+
 ![image](https://github.com/ROLEX2616/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149988469/0b5dc66b-5a86-438d-a686-2173ab0af990)
 
 
